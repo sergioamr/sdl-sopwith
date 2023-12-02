@@ -12,6 +12,9 @@ pkg/config.make
 src/resource.rc
 src/sopwith
 src/sopwith.exe
+
+src/index.*
+emsdk
 .deps
 *.a
 *.o
